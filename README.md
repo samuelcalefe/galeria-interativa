@@ -19,4 +19,4 @@ por botões e apresentação automática.
 Samuel Calefe
 
 ## Créditos das imagens
-Informe aqui a origem e a licença das imagens utilizadas.
+Todas as ilustrações foram feitas à mão por mim.
